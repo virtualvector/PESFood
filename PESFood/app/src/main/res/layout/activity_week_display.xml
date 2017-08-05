@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TableRow
+        android:id="@+id/TableRow01"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:text="WEEK 1"
+
+            android:id="@+id/weekOneButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="3sp"
+            android:layout_marginLeft="3sp"
+            android:layout_marginRight="0sp"
+            android:layout_marginBottom="0sp"
+            android:textSize="27sp"
+            android:textColor="#FFFFFF"
+
+            android:background="#663399"
+            android:layout_weight="1"
+             />
+
+        <Button
+            android:text="WEEK 2"
+
+            android:id="@+id/weekTwoButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="3sp"
+            android:layout_marginRight="3sp"
+            android:layout_marginBottom="0sp"
+            android:textSize="27sp"
+            android:textColor="#FFFFFF"
+
+
+
+            android:background="#660099"
+            android:layout_weight="1"
+             />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:text="WEEK 3"
+
+            android:id="@+id/weekThreeButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="3sp"
+            android:layout_marginLeft="3sp"
+            android:textSize="27sp"
+            android:textColor="#FFFFFF"
+
+
+            android:background="#660099"
+            android:layout_weight="1" />
+
+        <Button
+            android:text="WEEK 4"
+
+            android:id="@+id/weekFourButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="3sp"
+            android:layout_marginBottom="3sp"
+            android:textSize="27sp"
+            android:textColor="#FFFFFF"
+
+            android:background="#663399"
+            android:layout_weight="1" />
+    </TableRow>
+
+</TableLayout>

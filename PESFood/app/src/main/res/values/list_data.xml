@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="week_one_days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+
+
+
+    </string-array>
+
+    <string-array name="week_two_days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+
+
+
+    </string-array>
+
+    <string-array name="week_three_days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+
+
+
+    </string-array>
+
+    <string-array name="week_four_days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+
+
+
+    </string-array>
+
+    <string-array name="week_one_items">
+
+        <item><B>BREAKFAST</B>\nMasala-dosa, Sambhar, Chatney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nGreen Peas Pulao, Chapati, Raita, Black chana, White rice, rassam, Pickle.\n\n<B>SNACKS</B>\nNoodles,tea,Coffee.\n\n<B>DINNER</B>\nFeast
+        </item>
+        <item><B>BREAKFAST</B>\nIdli-vada, Sambhar, Chatney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nPuliogre, Mix veg curry, Chapati, Soppu-saaru, White rice, Butter-milk, Papad.\n\n<B>SNACKS</B>\nSamosa,Tea/Coffee.\n\n<B>DINNER</B>\nFulka, dall-tadka, methi-rice, Veg-palya, White rice, rassam, curd
+        </item>
+        <item><B>BREAKFAST</B>\nPuri-Sagu, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nBhindi-masala, Chapati, Coconut-rice, Yellow daal, White-rice, Papad.\n\n<B>SNACKS</B>\nBhel-puri,tea/Coffee.\n\n<B>DINNER</B>\nGreen-Peas-Masala, Fulka, Bombay daal, Rice, Sambhar, Curd rice, Fruit-salad.
+        </item>
+        <item><B>BREAKFAST</B>\nAloo paratha, curd, Tea, Coffee/Milk.\n\n<B>LUNCH</B>\nveg-pulao, Chana-Masala, Chapati, Green-sambhar, Butter milk.\n\n<B>SNACKS</B>\nbhajji, Tea/Coffee.\n\n<B>DINNER</B>\nLaccha Paratha, Egg-curry, Paneer-curry, White-rice, Rassam, Pickle.
+        </item>
+        <item><B>BREAKFAST</B>\nKhara-Bhath, Kesari-bhath, chatney, tea/Coffee/Milk.\n\n<B>LUNCH</B>\nBeans-capsicum masala, chapati, vangi-bhat, daal, rassam, papad.\n\n<B>SNACKS</B>\nMixture,Tea/Coffee.\n\n<B>DINNER</B>\nChhole-Bhature, rice-rassam, Sweet-lassi, salad.
+        </item>
+        <item><B>BREAKFAST</B>\nPav-Bhaji, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nChapati, Veg-curry, Bisibelle-bhath, white-rice, Sambhar, Butter-milk.\n\n<B>SNACKS</B>\nPasta,Tea/Coffee.\n\n<B>DINNER</B>\nPalak-paneer, Fulka, Daal-fry, White-rice, Rassam, curd.
+        </item>
+        <item><B>BREAKFAST</B>\nPlain-dosa, Sambhar, Chatney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nrajma-masala, Chapati, Pudina-rice, Sambhar, White-rice, Papad.\n\n<B>SNACKS</B>\nBiscuits,Tea/Coffee.\n\n<B>DINNER</B>\nAloo-PAratha, Curd, Daal, White-rice, Green-Sambhar, Sweet, Pickle.
+        </item>
+
+
+
+
+    </string-array>
+    <string-array name="week_two_items">
+        <item><B>BREAKFAST</B>\nIdli-Vada, Sambhar, Chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nAloo-Parmal, Fulka, Dum-jeera rice, Ghiya-dali, White-rice, Sambhar, papad.\n\n<B>SNACKS</B>\nPakoda,tea,Coffee.\n\n<B>DINNER</B>\nVeg-biriyani, Rassam, Chicken-biriyani, Raita, White-rice, Fruit-custard
+        </item>
+        <item><B>BREAKFAST</B>\nPuri-sagu, Tea/Coffee/Milk\n\n<B>LUNCH</B>\npalak-rice, Chapati, Methi dall, Green-peas masala, White rice, rassam, Pickle.\n\n<B>SNACKS</B>\nSemiya,tea,Coffee.\n\n<B>DINNER</B>\nPlain-paratha, Mix-veg kurma, White rice, Sambhar, curd, Bomabay-daal.
+        </item>
+        <item><B>BREAKFAST</B>\nOnion-dosa, chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nMakai-Nisha, chapati, Daal-kolhapuri, Green Sambhar, Ghee-rice, Butter-milk, Pickle.\n\n<B>SNACKS</B>\nRusk,tea,Coffee.\n\n<B>DINNER</B>\nGobhi-manchirian, veg-fried rice, Fulka, Lobiya daal, White rice, Rassam, Juice, Pickle.
+        </item>
+        <item><B>BREAKFAST</B>\nSattu-paratha, sagu Tea/Coffee/Milk\n\n<B>LUNCH</B>\nChana-masala, Chapati, veg-biriyani, Raita, White rice, rassam, Pickle.\n\n<B>SNACKS</B>\nMixture,tea,Coffee.\n\n<B>DINNER</B>\negg-Chilly, Paneeer-Chilly, Kerala-Paratha, Rassam.
+        </item>
+       <item><B>BREAKFAST</B>\nShavige Bhath, chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nPudina-rice, Chapati, gobi-capsicum, dall, White rice, Sambhar, Butter-milk, Pickle.\n\n<B>SNACKS</B>\nBread-jam,tea,Coffee.\n\n<B>DINNER</B>\nPongal, Cabbage-paiya, Fulka, Chana-daal,  Mix-veg kurma, rice, Rassam, curd.
+        </item>
+        <item><B>BREAKFAST</B>\nPav-bhaji, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nBhindi-Masala, Chapati, Methi-rice, daal, White rice, Sambhar, Pickle.\n\n<B>SNACKS</B>\nPani-puri,tea,Coffee.\n\n<B>DINNER</B>\nLachha Paratha, Kofta-Curry, Tomato-rice, Daal,  White rice, Rasam, curd.
+        </item>
+         <item><B>BREAKFAST</B>\nIdli-vada, Sambhar, Chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nBread-rice, Chapati, daal, Sambhar, White rice, Papad, Pickle.\n\n<B>SNACKS</B>\nBiscuits,tea,Coffee.\n\n<B>DINNER</B>\nPalak-Puri, Chana-masala, jeera-rice, Rassam, curd, Salad, Sweet.
+        </item>
+
+    </string-array>
+
+    <string-array name="week_three_items">
+
+        <item><B>BREAKFAST</B>\nMasala-Dosa, Chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nFulka, Green Daal,Black Chana, Coconut-rice,  Chapati, White rice, rassam, Pickle.\n\n<B>SNACKS</B>\nPoha,tea,Coffee.\n\n<B>DINNER</B>\nFeast.
+        </item>
+        <item><B>BREAKFAST</B>\nkhara-Bhath, kesari-bhath,  Tea/Coffee/Milk\n\n<B>LUNCH</B>\nDum-rice-kshmiri, Chapati, brinjal-masala, Daal-fry, White rice, Sambhar, butter-milk, Pickle.\n\n<B>SNACKS</B>\nBonda,tea,Coffee.\n\n<B>DINNER</B>\nButter-fulka, bhindi-do-pyaza, Daal-tadka,  White rice, Rassam, curd.
+        </item>
+        <item><B>BREAKFAST</B>\nChole-Bhature, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nGhee-rice, Chapati, Rajma-masala, Green-peas masala, White rice, Green-sambhar, butter-milk Pickle.\n\n<B>SNACKS</B>\nSweetBun,tea,Coffee.\n\n<B>DINNER</B>\nDaal-Makhani, Plain-paratha, White rice, Rasam, curd, Veg-munchurian, veg-friedRice.
+        </item>
+        <item><B>BREAKFAST</B>\nDaal-palak-paratha, sagu, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nLemon-rice, Chapati, mix dall, poori, Veg-kurma, Butter-milk, Pickle.\n\n<B>SNACKS</B>\nbanana-Bhajii,tea,Coffee.\n\n<B>DINNER</B>\nEgg-Bhurji Masala, Paneer-Bhurji Masala, White rice, Rassam, Paratha.
+        </item>
+        <item><B>BREAKFAST</B>\nIdly, Sambhar, Chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nChole-masala, Chapati, vangi-bhath, White rice, Sambhar, Butter-milk, Papad, Pickle.\n\n<B>SNACKS</B>\nMixture,tea,Coffee.\n\n<B>DINNER</B>\nMethi-green rice, Fulka, White rice, Rassam, Bottle-Gourd masala, curd.
+        </item>
+        <item><B>BREAKFAST</B>\nPuri-sagu, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nDum-ghee-rice, veg-sabzi Chapati, daal, Papad, White rice, Pickle.\n\n<B>SNACKS</B>\nSamosa,tea,Coffee.\n\n<B>DINNER</B>\nDil-pasand curry, Daal-bukhara, tanduri-roti, White rice, Rassam, curd, pIckle.
+        </item>
+        <item><B>BREAKFAST</B>\nSet-dosa, Sagu, Chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nPuliogere, Bhindi-masala,daal-mughlai, Fulka, White rice, Sambhar, Papad, Pickle.\n\n<B>SNACKS</B>\nBiscuits,tea,Coffee.\n\n<B>DINNER</B>\nAloo-paratha, Dum-jeeraRice, White rice, Rassam, curd, Sweet.
+        </item>
+    </string-array>
+
+    <string-array name="week_four_items">
+
+        <item><B>BREAKFAST</B>\nIdly-Vada, Sambhar, Chutney Tea/Coffee/Milk\n\n<B>LUNCH</B>\nChana-masala, Fulka, Chapati,  Green-Sambhar, White rice, Papad, Pickle.\n\n<B>SNACKS</B>\nPasta,tea,Coffee.\n\n<B>DINNER</B>\nButter-chicken, Shahi-Paneer, White rice, Tanduri-roti, Daal-tadka, Salad, Pickle.
+        </item>
+        <item><B>BREAKFAST</B>\nShavige-Bhath, Chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nVeg-pulao, raita, Rajma-masala, Chapati, Butter-milk, White rice, Pickle.\n\n<B>SNACKS</B>\nBread-pakoda,tea,Coffee.\n\n<B>DINNER</B>\nChinese-pakoda, Fulka, Chana-daal, Curd-rice, White rice, Rassam, Papad, Pickle.
+        </item>
+        <item><B>BREAKFAST</B>\nPlain-Dosa, Sambhar, Chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nDum-rice-kashmiri, Makai-nisha, Chapati, Daal-fry, White rice, rassam, Pickle.\n\n<B>SNACKS</B>\nKachori,tea,Coffee.\n\n<B>DINNER</B>\nSchezwan-friedRice, Nutrella Green-Peas, Fulka, Bombay-Daal, Sambhar, White rice, curd.
+        </item>
+        <item><B>BREAKFAST</B>\nChow-Chow-Bath, chutney,  Tea/Coffee/Milk\n\n<B>LUNCH</B>\nMix-VegCurry, Chapati, Tomato-rice,Daal, White rice, Sambhar, Pickle.\n\n<B>SNACKS</B>\nSemiya,tea,Coffee.\n\n<B>DINNER</B>\nEgg-friedRice, VegrFriedRice, GreenPeas-Curry, White-rice, Rassam,FruitSalad.
+        </item>
+        <item><B>BREAKFAST</B>\nPuri-sagu, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nVeg-Biriyani, Mutter-Paneer, Fulka, Raita, White rice, rassam, Pickle.\n\n<B>SNACKS</B>\nMirchi-bhajji,tea,Coffee.\n\n<B>DINNER</B>\nAloo-Gobhi-gagar-mutter,Plain-paratha,Kaju-pulao kurma,Daal-tadka, White rice, Sambhar.
+        </item>
+        <item><B>BREAKFAST</B>\nIdly, Vada, Sambhar, Chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nBlack-chana, Chapati, moong-daal, Palak-rice, White rice, Sambhar, Butter-milk, Pickle.\n\n<B>SNACKS</B>\nMasala-Vada,tea,Coffee.\n\n<B>DINNER</B>\nEgg-currya, Paneer-curry, White rice, Kerala-paratha, curd, rassam.
+        </item>
+        <item><B>BREAKFAST</B>\nVeg-roll, Avalakki-bhath, Chutney, Tea/Coffee/Milk\n\n<B>LUNCH</B>\nVeg-Kurma, fulka, Daal-kolhapuri, Lemon-rice, Green-sambhar,  Methi dall,  White rice, papad, Pickle.\n\n<B>SNACKS</B>\nBiscuits,tea,Coffee.\n\n<B>DINNER</B>\nChhole-Bhature, Green-peas babycorn pulao, Raita, White rice, Rassam.
+        </item>
+
+
+
+    </string-array>
+
+
+</resources>
